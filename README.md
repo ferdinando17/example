@@ -1,2 +1,2 @@
 # example
-Example course after thoughtful reflection and trouble.
+Example of the course after thoughtful reflection and trouble.
